@@ -42,8 +42,6 @@ based      →  Illinois, United States
 | Project | What it does |
 |:--|:--|
 | **[specter-ai](https://github.com/hiratinspace/specter-ai)** | Parallel recon engine — DNS, ports, HTTP, TLS — with Claude-generated risk assessment. Flask dashboard + CLI. |
-| **[cyber-portfolio](https://github.com/hiratinspace/cyber-portfolio)** | Documented home lab, detection engineering, and incident-response case studies with reproducible steps. |
-| **[crypto-solver](https://github.com/hiratinspace/crypto-solver)** | Cryptographic challenge solver built for CTF work. |
 | **[portfolio](https://github.com/hiratinspace/portfolio)** | Personal site with a live threat-intel feed pulling NVD CVEs and the CISA KEV catalog. |
 
 ## Software & AI
@@ -84,15 +82,6 @@ based      →  Illinois, United States
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
----
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=hiratinspace&show_icons=true&hide_border=true&hide_title=true&theme=transparent&icon_color=b91c1c&text_color=64748b" alt="GitHub stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiratinspace&layout=compact&hide_border=true&theme=transparent&title_color=b91c1c&text_color=64748b" alt="Top languages" />
-
-</div>
 
 ---
 
