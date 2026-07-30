@@ -2,7 +2,7 @@
 
 # Hirat Rahman Rahi
 
-**Security engineer.** I build tooling that maps attack surface — and the software and AI systems behind it.
+**Security engineer.** I build tooling that maps attack surface, and the software and AI systems behind it.
 
 Building [REDHEXX](https://redhexx.com) · Built [TuitionCreep](https://tuitioncreep.org) · CS @ Illinois Wesleyan
 
