@@ -4,7 +4,7 @@
 
 **Security engineer.** I build tooling that maps attack surface — and the software and AI systems behind it.
 
-Founder of [REDHEXX](https://redhexx.com) · Built [TuitionCreep](https://tuitioncreep.org) · CS @ Illinois Wesleyan
+Building [REDHEXX](https://redhexx.com) · Built [TuitionCreep](https://tuitioncreep.org) · CS @ Illinois Wesleyan
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hiratrahi.com-0f172a?style=flat-square&logo=cloudflare&logoColor=white)](https://hiratrahi.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hiratrahi-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiratrahi/)
@@ -25,17 +25,15 @@ also       →  software & AI engineering: Python, TypeScript, Swift, on-device 
 based      →  Illinois, United States
 ```
 
-I work on the security of systems that act on their own. Traditional appsec assumes software does what it's told; agents do what they're convinced to do, and the blast radius is whatever tools you handed them. That gap is what I build for.
-
 ---
 
 ## Currently
 
-**[REDHEXX](https://redhexx.com)** — Founder. AI-native security review mapping the MCP and agent attack surface: unauthenticated tools, over-broad scopes, and injection-to-action paths. Pre-launch, onboarding design partners. Research published here; OSS scanner on the roadmap.
+**[REDHEXX](https://redhexx.com)** — AI-native security review mapping the MCP and agent attack surface: unauthenticated tools, over-broad scopes, and injection-to-action paths. Pre-launch. Research published here; OSS scanner on the roadmap.
 
 **[specter-ai](https://github.com/hiratinspace/specter-ai)** — Attack surface recon that runs DNS, port scanning, HTTP and TLS analysis in parallel, then generates a risk-assessed pentest report. CLI and live web dashboard. → [demo](https://hiratinspace.github.io/specter-ai/)
 
-**Learning** — `[one specific thing: binary exploitation, Rust tooling, a cert you're working toward]`
+**Learning** — Identity and Authorization, AI Agent & MCP Security
 
 ---
 
@@ -86,8 +84,6 @@ I work on the security of systems that act on their own. Traditional appsec assu
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
-> Trim anything here you wouldn't want to be interviewed on. Four to six per row is the ceiling.
 
 ---
 
