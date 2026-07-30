@@ -4,7 +4,7 @@
 
 **Security engineer.** I build tooling that maps attack surface, and the software and AI systems behind it.
 
-Building [REDHEXX](https://redhexx.com) · Built [TuitionCreep](https://tuitioncreep.org) · CS @ Illinois Wesleyan
+Building [REDHEXX](https://redhexx.com) · Built [TuitionCreep](https://tuitioncreep.org) · CS & Neuroscience @ Illinois Wesleyan
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hiratrahi.com-0f172a?style=flat-square&logo=cloudflare&logoColor=white)](https://hiratrahi.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hiratrahi-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiratrahi/)
@@ -51,7 +51,7 @@ based      →  Illinois, United States
 | **[tuitioncreep-showcase](https://github.com/hiratinspace/tuitioncreep-showcase)** | IPEDS tuition projections and an aid-erosion engine. Next.js front end, Python ETL, Playwright + Vitest. Public 13-school sample of [tuitioncreep.org](https://tuitioncreep.org). |
 | **[Glovebox](https://github.com/hiratinspace/Glovebox)** | Offline-first roadside assistance for iOS. On-device LLM diagnosis via RAG + llama.cpp. UC Berkeley AI Hackathon 2026. → [Devpost](https://devpost.com/software/glovebox) |
 | **[HackTitan_Web](https://github.com/hiratinspace/HackTitan_Web)** | Official site for Illinois Wesleyan's flagship hackathon. `[add your organizer role]` |
-| **[Appeally](https://github.com/ethan-godsey/Appeally)** | 24-hour hackathon build. `[what problem, what you personally owned]` |
+| **[Appeally](https://github.com/ethan-godsey/Appeally)** | 24-hour hackathon build at HackAugie with a two other teammates. A tool that helps people get their mental health insurance claim from insurance company by creating and sending a strong appeal letter. |
 
 ---
 
