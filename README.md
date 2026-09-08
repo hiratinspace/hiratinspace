@@ -53,7 +53,7 @@ based      →  Illinois, United States
 | **[interninbox](https://github.com/hiratinspace/interninbox)** | Internship-scanning CLI on [PyPI](https://pypi.org/project/interninbox/). Reads documented public job board APIs with zero API keys and no telemetry; 100+ company registry, eligibility filters, and an MCP server for AI agents. |
 | **[tuitioncreep-showcase](https://github.com/hiratinspace/tuitioncreep-showcase)** | IPEDS tuition projections and an aid-erosion engine. Next.js front end, Python ETL, Playwright + Vitest. Public 13-school sample of [tuitioncreep.org](https://tuitioncreep.org). |
 | **[Glovebox](https://github.com/hiratinspace/Glovebox)** | Offline-first roadside assistance for iOS. On-device LLM diagnosis via RAG + llama.cpp. UC Berkeley AI Hackathon 2026. → [Devpost](https://devpost.com/software/glovebox) |
-| **[HackTitan_Web](https://github.com/hiratinspace/HackTitan_Web)** | Official site for Illinois Wesleyan's flagship hackathon. `[add your organizer role]` |
+| **[HackTitan_Web](https://github.com/hiratinspace/HackTitan_Web)** | Official site for Illinois Wesleyan's flagship hackathon. |
 | **[Appeally](https://github.com/ethan-godsey/Appeally)** | 24-hour hackathon build at HackAugie with a two other teammates. A tool that helps people get their mental health insurance claim from insurance company by creating and sending a strong appeal letter. |
 
 ---
