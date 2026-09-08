@@ -33,6 +33,8 @@ based      →  Illinois, United States
 
 **[specter-ai](https://github.com/hiratinspace/specter-ai)** — Attack surface recon that runs DNS, port scanning, HTTP and TLS analysis in parallel, then generates a risk-assessed pentest report. CLI and live web dashboard. → [demo](https://hiratinspace.github.io/specter-ai/)
 
+**[interninbox](https://github.com/hiratinspace/interninbox)** — Find internships from your terminal. Scans the public board APIs of Greenhouse, Lever, Ashby, SmartRecruiters, Workable, Recruitee, and USAJOBS. Zero API keys, no telemetry, MCP server built in. → [PyPI](https://pypi.org/project/interninbox/)
+
 **Learning** — Identity and Authorization, AI Agent & MCP Security
 
 ---
@@ -48,6 +50,7 @@ based      →  Illinois, United States
 
 | Project | What it does |
 |:--|:--|
+| **[interninbox](https://github.com/hiratinspace/interninbox)** | Internship-scanning CLI on [PyPI](https://pypi.org/project/interninbox/). Reads documented public job board APIs with zero API keys and no telemetry; 100+ company registry, eligibility filters, and an MCP server for AI agents. |
 | **[tuitioncreep-showcase](https://github.com/hiratinspace/tuitioncreep-showcase)** | IPEDS tuition projections and an aid-erosion engine. Next.js front end, Python ETL, Playwright + Vitest. Public 13-school sample of [tuitioncreep.org](https://tuitioncreep.org). |
 | **[Glovebox](https://github.com/hiratinspace/Glovebox)** | Offline-first roadside assistance for iOS. On-device LLM diagnosis via RAG + llama.cpp. UC Berkeley AI Hackathon 2026. → [Devpost](https://devpost.com/software/glovebox) |
 | **[HackTitan_Web](https://github.com/hiratinspace/HackTitan_Web)** | Official site for Illinois Wesleyan's flagship hackathon. `[add your organizer role]` |
