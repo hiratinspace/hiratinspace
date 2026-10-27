@@ -18,16 +18,21 @@ studying  →  CS & Neuroscience @ Illinois Wesleyan
 learning  →  identity & authorization · agent and MCP security
 ```
 
-## Projects
+## Security
 
 | | |
 |:--|:--|
 | **[specter-ai](https://github.com/hiratinspace/specter-ai)** | Attack surface recon: DNS, ports, HTTP and TLS in parallel, with an AI-written risk report. CLI + dashboard. [Demo](https://hiratinspace.github.io/specter-ai/) |
-| **[interninbox](https://github.com/hiratinspace/interninbox)** | Find internships from your terminal. Public job board APIs, no keys, no telemetry, built-in MCP server. [PyPI](https://pypi.org/project/interninbox/) |
-| **[PassMyResume](https://passmyresume.com)** | AI resume scanner that scores your resume against applicant tracking systems and shows what to fix. |
-| **[TuitionCreep](https://github.com/hiratinspace/tuitioncreep-showcase)** | Tuition projections for 3,525 US schools from federal IPEDS data. Next.js + Python ETL. [Live](https://tuitioncreep.org) |
-| **[Glovebox](https://github.com/hiratinspace/Glovebox)** | Offline iOS roadside help with an on-device LLM (RAG + llama.cpp). UC Berkeley AI Hackathon 2026. |
 | **[portfolio](https://github.com/hiratinspace/portfolio)** | Personal site with a live CVE and CISA KEV threat feed. |
+
+
+## Products
+
+| | |
+|:--|:--|
+| **[PassMyResume](https://passmyresume.com)** | AI resume scanner that scores your resume against applicant tracking systems and shows what to fix. |
+| **[TuitionCreep](https://tuitioncreep.org)** | Tuition projections for 3,525 US schools from federal IPEDS data. Next.js + Python ETL. [Showcase](https://github.com/hiratinspace/tuitioncreep-showcase) |
+| **[interninbox](https://github.com/hiratinspace/interninbox)** | Find internships from your terminal. Public job board APIs, no keys, no telemetry, built-in MCP server. [PyPI](https://pypi.org/project/interninbox/) |
 
 ## Stack
 
