@@ -14,7 +14,7 @@ I build tools that find what's exposed, and the systems behind them.
 
 ```
 building  →  REDHEXX · security review for MCP and AI agents
-studying  →  CS & Neuroscience @ Illinois Wesleyan
+studying  →  CS & Math, Psychology minor @ Illinois Wesleyan
 learning  →  identity & authorization · agent and MCP security
 ```
 
